@@ -4,7 +4,7 @@ import pandas as pd
 import time
 
 # PageSpeed API Key
-API_KEY = "AIzaSyCwzJiO6yXzHbfJQQoTz8_ODdViS2gtBmc"
+API_KEY = "AIzaSyCwzJiO6yXzHbfJQQoTz8_gdfgdfgdftBmc"
 
 # Function to extract internal links
 def get_internal_links(base_url):

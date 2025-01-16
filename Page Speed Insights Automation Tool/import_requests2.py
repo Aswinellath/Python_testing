@@ -3,7 +3,7 @@ import pandas as pd
 from openpyxl import Workbook
 
 # Define API key and base URL
-API_KEY = "AIzaSyCwzJiO6yXzHbfJQQoTz8_ODdViS2gtBmc"
+API_KEY = "AIzaSyCwzJiO6yXzHbfJQQoTz8_Osdfsdfsdf2gtBmc"
 BASE_URL = "https://www.googleapis.com/pagespeedonline/v5/runPagespeed"
 
 # List of URLs to analyze

@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Set your API key and test URLs
-API_KEY = "AIzaSyCwzJiO6yXzHbfJQQoTz8_ODdViS2gtBmc"  # Replace with your actual API Key
+API_KEY = "AIzaSyCwzJiO6yXzHbfJQQoasfsdfsdViS2gtBmc"  # Replace with your actual API Key
 URLS = ["https://ktxglobal.com/", "https://ktxglobal.com/organisers.php"]  # Add more URLs as needed
 EXCEL_FILE = "pagespeed_metrics.xlsx"
 
